@@ -1,3 +1,3 @@
-# AuthenticationAccessControls
+# AuthenticationAccessControls Project Lab
 Applying User Authentication and Access Controls
 [Applying_User_Authentication_and_Access_Controls_4e_-_Udo_Udo_Williams.pdf](https://github.com/user-attachments/files/15964797/Applying_User_Authentication_and_Access_Controls_4e_-_Udo_Udo_Williams.pdf)
